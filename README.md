@@ -1,7 +1,7 @@
 # human_activity_recognition
 ## Reference
-[Data](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
-[Paper](https://github.com/TerenceLiu2/human_activity_recognition/blob/master/data/CanovaShemaj-HumanActivityRecognitionUsingSmartph(3).pdf)
+[Data](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)<br>
+[Paper:HumanActivityRecognition](https://github.com/TerenceLiu2/human_activity_recognition/blob/master/data/CanovaShemaj-HumanActivityRecognitionUsingSmartph(3).pdf)
 ## Requirement
 - Sklearn
 - numpy
