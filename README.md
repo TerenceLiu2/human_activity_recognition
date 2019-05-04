@@ -1,6 +1,6 @@
 # human_activity_recognition
 ## Reference
-Human Activity Recognition using Smartphone Sensor Data
+[Human Activity Recognition using Smartphone Sensor Data](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 ## Requirement
 - Sklearn
 - numpy
